@@ -1,0 +1,71 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.App {
+  padding: 50px;
+}
+
+.App h1 {
+  text-align: center;
+}
+
+.formcontainer {
+  margin: 0 auto;
+  padding: 50px;
+  background:cyan;
+}
+
+.userformline {
+   display: flex;
+  justify-content: space-between;
+}
+
+.ui.form .field .ui.input input, .ui.form .fields .field .ui.input input, .selectbox {
+  width: 600px;
+}
+
+.formcontainer .button {
+  background-color:rgb(59, 8, 59);
+  color:aliceblue;
+}
+
+.updatebtn {
+  text-align: center!important;
+  color:darkgreen;
+  cursor: pointer;
+}
+
+.deletebtn {
+  text-align: center!important;
+  color:rgb(211, 47, 11);
+  cursor: pointer;
+}
+
+.searchbox {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  margin: 20px 0;
+}
+
+.updateform {
+  margin-top: 20px;
+  padding: 50px;
+  background-color: aquamarine;
+  border-radius: 10px;
+}
+
+.highlight {
+  background-color:lightpink;
+}

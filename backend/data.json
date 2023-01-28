@@ -1,0 +1,30 @@
+[
+    {
+        "_id": "63d2fcc689e52b21140928e3",
+        "genre": "homme",
+        "nom": "Liu",
+        "prenom": "John",
+        "naissance": "1980-11-30",
+        "ville": "Shenyang",
+        "pays": "China",
+        "nationalite": "China",
+        "numeroPassport": "123456",
+        "paysPassport": "China",
+        "deliverancePassport": "2018-11-30",
+        "expirationPassport": "2026-11-30"
+    },
+    {
+        "_id": "63d2fcc689e52b21140928e4",
+        "genre": "femme",
+        "nom": "Li",
+        "prenom": "Mary",
+        "naissance": "1990-01-01",
+        "ville": "Montreal",
+        "pays": "Canada",
+        "nationalite": "Canada",
+        "numeroPassport": "456789",
+        "paysPassport": "Canada",
+        "deliverancePassport": "2019-01-01",
+        "expirationPassport": "2025-01-01"
+    }
+]
